@@ -18,3 +18,4 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comsa33&show_icons=true&theme=dracula)
