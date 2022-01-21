@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=DS_RUO&fontSize=60&animation=fadeIn&fontColor=8B89CC)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2306BA8B&title_bg=%238A8A8A&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ### Welcome to Ruo's Github!
 <a href=https://ruo.oopy.io/><img src="https://img.shields.io/badge/Ruo_Blog-56B366?style=for-the-badge&logo=Notion&logoColor=white"/></a>
