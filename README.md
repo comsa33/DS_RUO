@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2306BA8B&title_bg=%238A8A8A&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 # DS_RUO
 ## Welcome to Ruo's Github!
 
@@ -13,3 +14,5 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> 
+
+
