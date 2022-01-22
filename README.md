@@ -1,12 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=RUO%20LEE&fontSize=60&animation=fadeIn&fontColor=231F20">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=WELCOME%20TO%20RUO's%20BLOG&fontSize=40&animation=fadeIn&fontColor=c3d9d9">
 </div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2306BA8B&title_bg=%238A8A8A&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <body>
   <div align=center>
-    <h1> Welcome to Ruo's Github! </h1>
     <a href=https://ruo.oopy.io/><img src="https://img.shields.io/badge/TECH_BLOG-56B366?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href=https://ruo.oopy.io/c1519fc7-667d-4273-88a1-9e7f593da33f/><img src="https://img.shields.io/badge/PORTFOLIO-DD0031?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href=https://ruo.oopy.io/eb35b1fb-2763-4794-adbe-6127a87934fe/><img src="https://img.shields.io/badge/ABOUT_RUO-ED2B88?style=for-the-badge&logo=Notion&logoColor=white"/></a>
@@ -35,9 +32,12 @@
   </div>
   
 
-  <div align="center">
+  <div align=center>
     <h3> My Github Stats </h3>
     <img src="https://github-readme-stats.vercel.app/api?username=comsa33&show_icons=true&theme=dracula">
+  </div>
+  <div align=right>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2306BA8B&title_bg=%238A8A8A&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true">
   </div>
 
 </body>
