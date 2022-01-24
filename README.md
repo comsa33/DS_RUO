@@ -40,5 +40,21 @@
   <div align=right>
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcomsa33%2Fhit-counter&count_bg=%2355C2A3&title_bg=%23B9EEDF&icon=github.svg&icon_color=%231A7D63&title=hits&edge_flat=false"/></a>
   </div>
+  
+  
+<!--   <table>
+    <tr>
+      <td align="center">
+  <img alt="" width="400" src="https://github.com/comsa33/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+      </td>
+    </tr>
+    <tr>
+    <td colspan="2" align="center">
+      <details open><summary>Full year calendar</summary><img src="https://github.com/comsa33/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+      </td>
+    </tr>
+  </table> -->
+  
+
 
 </body>
