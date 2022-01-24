@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Kaggle-70d8db?style=for-the-badge&logo=Kaggle&logoColor=white"/> 
   </div>
   
 
