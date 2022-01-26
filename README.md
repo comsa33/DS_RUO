@@ -7,6 +7,7 @@
     <a href=https://ruo.oopy.io/><img src="https://img.shields.io/badge/TECH_BLOG-56B366?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href=https://ruo.oopy.io/c1519fc7-667d-4273-88a1-9e7f593da33f/><img src="https://img.shields.io/badge/PORTFOLIO-DD0031?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href=https://ruo.oopy.io/eb35b1fb-2763-4794-adbe-6127a87934fe/><img src="https://img.shields.io/badge/ABOUT_RUO-ED2B88?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+    <a href="mailto:comsa333@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </div>
   
   <div>
