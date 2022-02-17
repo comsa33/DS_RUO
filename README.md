@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=WELCOME%20TO%20RUO's%20GitHub&fontSize=40&animation=fadeIn&fontColor=c3d9d9">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=DATA%20PLAYGROUND&fontSize=40&animation=fadeIn&fontColor=c3d9d9">
 </div>
 
 <body>
   <div align=center>
+    <h3>RUO LEE (이루오)</h3>
     <a href=https://ruo.oopy.io/><img src="https://img.shields.io/badge/TECH_BLOG-56B366?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href=https://ruo.oopy.io/c1519fc7-667d-4273-88a1-9e7f593da33f/><img src="https://img.shields.io/badge/PORTFOLIO-DD0031?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href=https://ruo.oopy.io/eb35b1fb-2763-4794-adbe-6127a87934fe/><img src="https://img.shields.io/badge/ABOUT_RUO-ED2B88?style=for-the-badge&logo=Notion&logoColor=white"/></a>
