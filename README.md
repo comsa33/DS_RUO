@@ -9,8 +9,6 @@
 	
   <div align=center>
 		<h3>안녕하세요, 인공지능 개발자 이루오입니다.</h3>
-		<h3>현재는 여러 개발자들과 커뮤니케이션을 하며, 인공지능의 가치를 알아가는 중입니다.</h3>
-	  
     <a href=https://ruo.oopy.io/><img src="https://img.shields.io/badge/TECH_BLOG-56B366?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href=https://ruo.oopy.io/c1519fc7-667d-4273-88a1-9e7f593da33f/><img src="https://img.shields.io/badge/PORTFOLIO-DD0031?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href=https://ruo.oopy.io/eb35b1fb-2763-4794-adbe-6127a87934fe/><img src="https://img.shields.io/badge/ABOUT_RUO-ED2B88?style=for-the-badge&logo=Notion&logoColor=white"/></a>
@@ -25,6 +23,7 @@
     <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
     <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=Pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=Metabase&logoColor=white"/> 
