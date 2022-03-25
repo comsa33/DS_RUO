@@ -8,7 +8,9 @@
 	</div>
 	
   <div align=center>
-		<h3>Tensorflow 와 Scikit-learn 을 주로 활용하는 신입 데이터 과학자입니다.</h3>
+		<h3>안녕하세요, 인공지능 개발자 이루오입니다.</h3>
+		<h3>현재는 여러 개발자들과 커뮤니케이션을 하며, 인공지능의 가치를 알아가는 중입니다.</h3>
+	  
     <a href=https://ruo.oopy.io/><img src="https://img.shields.io/badge/TECH_BLOG-56B366?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href=https://ruo.oopy.io/c1519fc7-667d-4273-88a1-9e7f593da33f/><img src="https://img.shields.io/badge/PORTFOLIO-DD0031?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href=https://ruo.oopy.io/eb35b1fb-2763-4794-adbe-6127a87934fe/><img src="https://img.shields.io/badge/ABOUT_RUO-ED2B88?style=for-the-badge&logo=Notion&logoColor=white"/></a>
