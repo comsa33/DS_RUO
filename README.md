@@ -1,6 +1,7 @@
-<div align="center">
+
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=DATA%20PLAYGROUND&fontSize=40&animation=fadeIn&fontColor=c3d9d9">
-</div>
+</div> -->
 
 <body>
 	<div align=left>
@@ -16,7 +17,17 @@
   </div>
 </body>
 
-  <div align=center>
+<!-- 딥러닝 **개발자**
+
+ > **`Tensorflow`, `PyTorch` 와 `Scikit-learn` 을 주로 사용하여 ...**
+ > 
+ > - 이미지 처리 :
+ >     - **CNN**, **GAN**, **VAE**, Transformer 기반 image detection, **generation**, **text2image** 관련 개인 프로젝트 진행
+ > - 자연어 처리 :
+ >     - seq2seq, **word2vec**, **RNN**, Transformer 기반 **자연어 생성**, **추천 시스템**, corpus 분류 관련 개인 프로젝트 진행 -->
+
+
+<div align=center>
     <h3> Tech & Skills </h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
 <!--   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
@@ -35,7 +46,7 @@
     <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Kaggle-70d8db?style=for-the-badge&logo=Kaggle&logoColor=white"/>  -->
-  </div>
+</div>
   
 
   <div align=center>
