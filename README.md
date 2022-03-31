@@ -6,45 +6,44 @@
 > **TechBlog** [https://ruo.oopy.io/](https://ruo.oopy.io/)
 >
 
-### 🛠 핵심역량 & 보유기술
+## 🛠 핵심역량 & 보유기술
 
----
 
 **인공지능 개발자 |** 2020 ~ 2022
 
+> **데이터 사이언스**
+> 
+> 1. `Word2vec`, `Text-distance` 알고리즘을 사용하여 **추천/검색 시스템** **모델 개발**
+> 2. `Scikit-learn` 패키지의 다양한 **ML 모델 tuning**을 통해 **회귀 및 분류 예측 서비스**에 적용
+> 3. `Tensorflow`, `keras`, `PyTorch`를 통해 **Computer vision 및 NLP 딥러닝 모델 개발**
+>     
+>     ✔️ 다양한 **딥러닝** **SOTA** **모델 pre-trained** & **fine-tuning**을 통한 모델 최적화 
+>          (Bert Seq2Seq, CGAN, StackGAN, VAE 등)
+>     
+>     ✔️ **최신 논문**들을 읽고 이해하여 기술 적용 가능 : **text-to-image 프로젝트**
+>     
+>     ✔️ 다양한 **실험** 및 **분석**을 통해 **커스텀** **딥러닝 네트워크 구축**
+>     
+
 > **데이터 분석**
 > 
-> 1. `Python` 통계 분석
+> 1. `Python`을 사용하여 **통계 분석**
 >     
->     ✔️ `NumPy`, `Pandas` 라이브러리를 활용한 데이터 정규성 검정 및 EDA
+>     ✔️ `NumPy`, `Pandas` 라이브러리를 활용한 **데이터 정규성 검정**, **EDA**, **ETL** 가능
 >     
->     ✔️ `SciPy` 패키지를 이용한 T-test, 카이제곱, ANOVA 등의 가설 검정을 통한 데이터 유효성 체크
+>     ✔️ `SciPy` 패키지를 통해 **T-test, 카이제곱, ANOVA** 등의 가설 검정을 통한 데이터 유효성 확인
 >     
->     ✔️ `Matplotlib`, `Seaborn`, `PyPlot` 라이브러리를 사용하여 분석 결과 시각화 및 의미 도출
+>     ✔️ `Matplotlib`, `Seaborn`, `PyPlot` 라이브러리를 사용하여 **분석 결과 시각화 및 의미 도출**
 >     
-> 2. `Metabase` 프레임워크를 활용한 대시보드 기획 
->     
->     ✔️ 웹앱 사용자에게 실시간 분석 정보를 전달하고 비즈니스 인사이트 공유
->     
+> 2. `Metabase` 프레임워크를 활용한 **대시보드 기획**
 
 > **데이터 엔지니어링**
 > 
-> 1. 협업을 위한 `Git`을 사용
+> 1. `MySQL`, `MongoDB` 를 통한 **쿼리문 작성** 및 **DB 운용 자동화 네트워크 구축**
 > 2. `Selenium`, `Requests` 패키지를 이용하여 커스텀 크롤러 제작 및 데이터 마이닝 
-> 3. 딥러닝, 머신러닝 프로젝트를 위해 `MySQL`, `MongoDB` 를 통한 DB 운용 자동화 네트워크 구축
-> 4. `Python Flask` 프레임워크를 사용하여 머신러닝 서비스를 웹 앱으로 빌드
-> 5. `Heroku`(PaaS)기술을 활용하여 웹앱 서비스를 배포
-
-> **데이터 사이언스**
-> 
-> 1. `Scikit-learn` 패키지의 XGBoost, LightGBM, RandomForest 등 앙상블 모델 tunning을 통해 유튜브 수익 예측, 아파트 실거래가 예측 모델 개발
-> 2. `Tensorflow`, `PyTorch` 프레임워크를 통해 커스텀 딥러닝 모델 개발
->     
->     ✔️ Bert Seq2Seq, CGAN, StackGAN, VAE 모델 커스텀 및 pretrained-finetuning을 통해 text2image 프로젝트 진행
->     
->     ✔️ GRU, LSTM 등 순환신경망 커스텀 병렬 네트워크 구축하여 코드 자동완성 프로젝트 진행
->     
-> 3. `Word2vec`, `Text-distance` 기술을 사용하여 콘텐츠 기반 추천 시스템 모델 개발
+> 3. `Python Flask` 프레임워크를 사용하여 **모델 재활용**을 통한 **ML 서비스를 웹 앱으로 구축**
+> 4. `Heroku`(PaaS) 클라우드 기술을 활용하여 **웹앱 서비스를 배포 및 관리**
+> 5. **협업**을 위한 `Git`툴 사용
 
 
 <!-- 
