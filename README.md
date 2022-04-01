@@ -1,4 +1,4 @@
-# 🙋🏻‍♂️ 안녕하세요, 인공지능 개발자 이루오입니다.
+<!-- # 🙋🏻‍♂️ 안녕하세요, 인공지능 개발자 이루오입니다.
 
 > **Email** *comsa333@gmail.com*
 > 
@@ -43,7 +43,7 @@
 > 2. `Selenium`, `Requests` 패키지를 이용하여 커스텀 크롤러 제작 및 데이터 마이닝 
 > 3. `Python Flask` 프레임워크를 사용하여 **모델 재활용**을 통한 **ML 서비스를 웹 앱으로 구축**
 > 4. `Heroku`(PaaS) 클라우드 기술을 활용하여 **웹앱 서비스를 배포 및 관리**
-> 5. **협업**을 위한 `Git`툴 사용
+> 5. **협업**을 위한 `Git`툴 사용 -->
 
 
 <!-- 
@@ -51,7 +51,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=DATA%20PLAYGROUND&fontSize=40&animation=fadeIn&fontColor=c3d9d9">
 </div> -->
 
-<!-- <body>
+<body>
 	<div align=left>
 		<h1>RUO LEE (이루오)</h1>
 	</div>
@@ -63,7 +63,23 @@
     <a href=https://ruo.oopy.io/eb35b1fb-2763-4794-adbe-6127a87934fe/><img src="https://img.shields.io/badge/ABOUT_RUO-ED2B88?style=for-the-badge&logo=Notion&logoColor=white"/></a>
     <a href="mailto:comsa333@gmail.com"/><img src="https://img.shields.io/badge/Gmail-cf574e?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </div>
-</body> -->
+</body>
+
+### 🛠 스킬셋
+- **LANGUAGE**
+	> **Python**, **MySQL**, SQLite3, PostgreSQL, **MongoDB**, Neo4j
+- **DATA ANALYSIS**
+	> **Pandas**, **NumPy**, **SciPy**
+- **DL/ML FRAMEWORK**
+	> **Tensorflow**, **PyTorch**, **Scitkit-learn**, **XGBoost**, **LightGBM**, **gensim**, **text-distance**
+- **DATA VISUALIZATION**
+	> **Matplotlib**, **Seaborn**, Pyplot, Metabase
+- **DATA MINING**
+	> Selenium, BeautifulSOUP, Requests
+- **DATA ENGINEERING**
+	> Flask, Heroku
+- **COLABORATIVE TOOL**
+	> Docker, **Github**
 
 <!-- 딥러닝 **개발자**
 
@@ -77,19 +93,19 @@
 
 <!-- <div align=center>
     <h3> Tech & Skills </h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>  -->
-<!--   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
     <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/> -->
-<!--     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=Pytorch&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=Metabase&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/> -->
-<!--     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Visual Studio Code-5C2D91?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> 
