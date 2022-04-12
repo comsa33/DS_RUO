@@ -77,7 +77,7 @@
 	> Selenium, BeautifulSOUP, Requests
 - **DATA ENGINEERING**
 	> Flask, Heroku
-- **COLABORATIVE TOOL**
+- **COLLABORATIVE TOOL**
 	> Docker, **Github**
 
 <!-- 딥러닝 **개발자**
