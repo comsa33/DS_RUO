@@ -65,20 +65,45 @@
 
 
 ### 🛠 스킬셋
-- **LANGUAGE**
-	> **Python**, **MySQL**, SQLite3, PostgreSQL, **MongoDB**, Neo4j
-- **DATA ANALYSIS**
-	> **Pandas**, **NumPy**, **SciPy**
-- **DL/ML FRAMEWORK**
-	> **Tensorflow**, **PyTorch**, **Scitkit-learn**, **XGBoost**, **LightGBM**, **gensim**, **text-distance**
-- **DATA VISUALIZATION**
-	> **Matplotlib**, **Seaborn**, Pyplot, Metabase
-- **DATA MINING**
-	> Scrapy, Selenium, BeautifulSOUP, Requests
-- **DATA ENGINEERING**
-	> Flask, Heroku
-- **COLLABORATIVE TOOL**
-	> Docker, **Github**
+**LANGUAGE**
+
+> Python, MySQL, SQLite3, PostgreSQL, MongoDB, Neo4j
+> 
+
+**DATA ANALYSIS**
+
+> Pandas, NumPy, SciPy, Jamovi
+> 
+
+**DL/ML FRAMEWORK**
+
+> Tensorflow, PyTorch, Scitkit-learn, XGBoost, LightGBM, gensim, text-distance
+> 
+
+**DATA VISUALIZATION**
+
+> Matplotlib, Seaborn, Pyplot, Metabase
+> 
+
+**DATA MINING**
+
+> Scrapy, Selenium, BeautifulSOUP, Requests
+> 
+
+**WEB FRAMEWORK**
+
+> Flask, Heroku
+> 
+
+**CI/CD**
+
+> Jenkins, AWS lightsail
+> 
+
+**COLLABORATIVE TOOL**
+
+> Docker, Github, GitLab
+>
 
 <!-- 딥러닝 **개발자**
 
