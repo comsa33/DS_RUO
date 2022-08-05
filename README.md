@@ -74,7 +74,7 @@
 - **DATA VISUALIZATION**
 	> **Matplotlib**, **Seaborn**, Pyplot, Metabase
 - **DATA MINING**
-	> Selenium, BeautifulSOUP, Requests
+	> Scrapy, Selenium, BeautifulSOUP, Requests
 - **DATA ENGINEERING**
 	> Flask, Heroku
 - **COLLABORATIVE TOOL**
