@@ -16,6 +16,3 @@
     - Kubernetes, Docker, Podman
 - CI/CD
     - TeamCity, Jenkins
-- 교육 및 코칭
-    - TESOL
-    - 어학원 운영 및 TOEIC 강의
