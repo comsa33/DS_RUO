@@ -31,7 +31,7 @@ tags: performance-optimization, sqlalchemy, data-engineering, techblog, resource
 다음은 실제 구현 예제입니다:
 
 ```python
-pythonCopy codefrom sqlalchemy import create_engine
+from sqlalchemy import create_engine
 from contextlib import contextmanager
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy.exc import SQLAlchemyError
@@ -81,4 +81,4 @@ def fetch_and_store_data():
 
 ## **참고 자료**
 
-이 블로그 포스팅은 실제 작업 환경에서의 경험을 바탕으로 작성되었으며, 자세한 정보와 추가적인 데이터베이스 관리 기술에 대해서는 SQLAlchemy 공식 문서를 참조하시기 바랍니다: [](https://docs.sqlalchemy.org/en/20/core/engines.html)[SQLAlchemy Engine Configuration](https://docs.sqlalchemy.org/en/20/core/engines.html)
+이 블로그 포스팅은 실제 작업 환경에서의 경험을 바탕으로 작성되었으며, 자세한 정보와 추가적인 데이터베이스 관리 기술에 대해서는 SQLAlchemy 공식 문서를 참조하시기 바랍니다: [SQLAlchemy Engine Configuration](https://docs.sqlalchemy.org/en/20/core/engines.html)
