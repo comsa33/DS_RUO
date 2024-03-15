@@ -22,7 +22,7 @@ tags: error-handling, tls, ssl-certificate, k8s, network-security, clustering, l
       namespace: metallb-system
     spec:
       addresses:
-      - 192.168.1.240-192.168.1.250 
+      - 192.168.1.240-192.168.1.250
     ```
     
     ```plaintext
@@ -264,6 +264,8 @@ ok가 안뜨면 뭔가 인증서 만들때 디코딩된 ca.crt 정보를 다시 
 ```
 
 ```plaintext
+❯ base64_encoded_ca=$(sudo base64 -w0 < webhook.crt)
+
 # 웹훅 인증해주는 config 리소스도 업데이트
 ❯ kubectl patch validatingwebhookconfiguration metallb-webhook-configuration \                                 
   --type='json' \
