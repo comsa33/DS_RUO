@@ -8,55 +8,6 @@ tags: ai, machine-learning, nlp, deep-learning, pytorch, llm, gradient-descent, 
 
 ---
 
-## 목차
-
-1. **서론**
-    
-    * 프로젝트 배경 및 목적
-        
-    * 사용한 기술 스택
-        
-2. **환경 설정**
-    
-    * Unsloth 설치 방법 (CUDA 12.1 기준)
-        
-    * 프로젝트 구조 소개
-        
-3. **데이터 준비**
-    
-    * 데이터셋 로드 및 전처리
-        
-    * 데이터셋 포맷팅 코드
-        
-4. **모델 준비**
-    
-    * 모델 로드 및 준비 코드
-        
-    * PEFT 모델 설정
-        
-5. **모델 학습**
-    
-    * 학습 설정 및 초기화
-        
-    * 학습 코드 및 과정
-        
-6. **모델 저장 및 푸시**
-    
-    * 모델 체크포인트 저장 및 불러오기
-        
-    * Hugging Face Hub에 모델 푸시
-        
-7. **모델 테스트**
-    
-    * 모델 테스트 코드 및 결과
-        
-8. **결론**
-    
-    * 프로젝트 결과 및 성과
-        
-    * 향후 개선 방향
-        
-
 ## 1\. 서론
 
 ### 프로젝트 배경 및 목적
@@ -90,7 +41,7 @@ pip install "unsloth[cu121] @ git+https://github.com/unslothai/unsloth.git"
 
 ### 프로젝트 구조 소개
 
-```
+```plaintext
 project/
 ├── config_llama3_openko_8b.yaml
 ├── data_prep.py
