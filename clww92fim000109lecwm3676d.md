@@ -45,8 +45,12 @@ data:
     wal_keep_segments = 64
     archive_mode = on
     archive_command = 'cp %p /var/lib/postgresql/data/archive/%f'
+    hot_standby = on
   pg_hba.conf: |
-    host replication all 0.0.0.0/0 md5
+    local   all             all                                     trust
+    host    all             all             0.0.0.0/0               md5
+    host    replication     all             0.0.0.0/0               md5
+    host    replication     all             ::/0                    md5
 
 ---
 
@@ -94,15 +98,19 @@ spec:
 listen_addresses = '*'
 wal_level = replica
 max_wal_senders = 3
-wal_keep_segments = 64
+wal_keep_size = 1024
 archive_mode = on
 archive_command = 'cp %p /var/lib/postgresql/data/archive/%f'
+hot_standby = on
 ```
 
 `pg_hba.conf` 파일 수정:
 
 ```plaintext
-host replication all 0.0.0.0/0 md5
+local   all             all                                     trust
+host    all             all             0.0.0.0/0               md5
+host    replication     all             0.0.0.0/0               md5
+host    replication     all             ::/0                    md5
 ```
 
 **복제 사용자 생성 및 권한 설정**
@@ -192,7 +200,41 @@ crontab -e
 crontab -l
 ```
 
-#### 7\. 결론
+#### 7\. 연결 상태 확인
+
+원본 서버와 복제 서버 간의 연결 상태를 확인하는 과정은 중요합니다. 이를 통해 미러링 구성이 정상적으로 작동하고 있는지 확인할 수 있습니다.
+
+#### 원본 서버에서 확인
+
+원본 PostgreSQL 서버에서는 `pg_stat_replication` 뷰를 통해 복제 상태를 확인할 수 있습니다. 이 뷰는 복제 중인 각 세션에 대한 정보를 제공합니다. 아래 SQL 명령을 실행하여 복제 상태를 확인합니다:
+
+```sql
+SELECT * FROM pg_stat_replication;
+```
+
+이 쿼리는 복제를 수행하고 있는 프로세스의 상세 정보를 반환합니다. 예상한 복제 슬롯과 연결된 세션 정보가 표시되어야 합니다. 정보가 보이지 않는 경우, 복제 설정을 다시 검토해야 할 수 있습니다.
+
+#### 복제 서버에서 확인
+
+복제 서버에서는 `pg_stat_wal_receiver` 뷰를 사용하여 현재 WAL 수신 상태를 확인할 수 있습니다. 이 뷰는 원본 서버로부터 WAL 데이터를 받고 있는지, 그리고 그 상태가 어떠한지를 보여줍니다:
+
+```sql
+SELECT * FROM pg_stat_wal_receiver;
+```
+
+복제가 올바르게 설정되어 있다면, 이 쿼리는 원본 서버의 연결 정보와 함께 WAL 데이터의 수신 상태를 보여줄 것입니다. 데이터가 업데이트되지 않거나, 연결 상태에 문제가 있는 경우 추가적인 트러블슈팅이 필요할 수 있습니다.
+
+#### 네트워크 연결 테스트
+
+복제에 문제가 발생하는 경우, 네트워크 연결을 테스트하여 두 서버 간의 통신이 원활하게 이루어지고 있는지 확인해야 합니다. 예를 들어, `telnet`을 사용하여 원본 서버의 PostgreSQL 포트로 연결을 시도할 수 있습니다:
+
+```bash
+telnet <원본 서버 IP> <PostgreSQL 포트>
+```
+
+이 커맨드가 성공한다면 네트워크 연결은 정상입니다. 실패한다면 네트워크 설정, 방화벽 규칙 또는 원본 서버의 PostgreSQL 설정을 다시 확인해야 합니다.
+
+#### 8\. 결론
 
 **요약 및 추가 고려사항** 이번 포스트에서는 쿠버네티스에서 PostgreSQL 데이터베이스를 미러링하고 주기적으로 백업하는 방법을 다뤘습니다. 이를 통해 데이터의 신뢰성과 가용성을 높일 수 있습니다.
 
