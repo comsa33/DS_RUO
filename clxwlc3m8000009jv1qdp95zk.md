@@ -322,7 +322,7 @@ class KiwiBM25FaissEnsembleRetriever:
 
 이 체인을 사용함으로써, 복잡한 검색 및 응답 생성 과정을 효율적으로 관리하고, 사용자 질문에 대해 정확하고 관련성 높은 답변을 신속하게 제공할 수 있습니다. 이 구조는 또한 새로운 기능이나 다른 모델로의 확장성을 고려하여 설계되었습니다.
 
-#### 소스 코드
+#### `chain.py` 소스 코드
 
 ```python
 import os
@@ -345,7 +345,7 @@ config = dotenv_values("packages/gpt-recruit-rag/.env")
 
 MONGO_URI = config["MONGO_URI"]
 db_name = "faiss_index"
-collection_name = "wanted_job_details_index_v1"
+collection_name = "vector_index_v1"
 EMBEDDING_URI = config["EMBEDDING_URI"]
 
 kiwi_bm25_path = 'packages/gpt-recruit-rag/kiwi_bm25.pkl'
